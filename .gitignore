@@ -1,0 +1,18 @@
+# Ignore build outputs and temp files
+*.exe
+*.dll
+*.pdb
+*.obj
+*.idb
+*.log
+*.user
+*.suo
+*.ncb
+
+# Ignore folders
+bin/
+obj/
+Debug/
+Release/
+node_modules/
+server/.env
